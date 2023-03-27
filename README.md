@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&height=200&text=Hello&fontAlign=50&stroke=00FF00&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=shark&height=200&text=Hello&fontAlign=50&stroke=#0066ff&strokeWidth=2)
 # Mike Huynh
  
 - 🌱 I’m currently learning ...
