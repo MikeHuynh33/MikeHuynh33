@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**MikeHuynh33/MikeHuynh33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Mike Huynh
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
